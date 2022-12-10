@@ -1,5 +1,5 @@
 Hi Venkatasai Kanchi,
-I'm pursuing my B.Tech in Aizza College of Engineering and Technology,
-Even though I'm from Non-IT background very enthusiastic to learn new technologies,
+Currently,I'm pursuing my B.Tech in Aizza College of Engineering and Technology,
+Even though I'm from Non-IT background,I always enthusiastic to learn new technologies,
 Present I have been enrolled in full stack java course where I can learn,
 Java,SQL,HTML,CSS,Javascript,Angular JS etc.,
