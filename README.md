@@ -1,7 +1,7 @@
 👨‍💻 Backend Developer | Java Enthusiast | Microservices Architect
 🚀 Passionate about building scalable, high-performance systems and solving complex problems with efficient backend solutions.
 
-💼 Experience: 1+ years of expertise in Java, Spring Boot, and Hibernate, specializing in microservices architecture.
+💼 Experience: 2 years of expertise in Java, Spring Boot, and Hibernate, specializing in microservices architecture.
 🔧 Tech Stack: Proficient in Java, MySQL, PostgreSQL, Redis, Kafka, Docker, Jenkins, and CI/CD pipelines.
 🛠️ Key Projects:
 Designed and implemented a Bulk Card Processing System handling 5000+ cards creation in a batch.
